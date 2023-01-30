@@ -61,7 +61,7 @@ export default {
 .push {
   border: 5px solid rgb(5, 83, 48);
   width: 20%;
-  background-color: rgb(214, 172, 253);
+  background-color: rgb(201, 154, 244);
   display: flex;
   flex-direction: column;
   margin: 10px;
